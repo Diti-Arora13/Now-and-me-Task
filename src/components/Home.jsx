@@ -1,10 +1,8 @@
 import React, { useState } from 'react'
-import { useNavigate } from "react-router-dom";
 import { FaCommentDots } from 'react-icons/fa';
 import { FiMoreHorizontal } from 'react-icons/fi';
 import { MdOutlineModeComment } from 'react-icons/md';
 import SignupModal from './SignupModal';
-import Login from './Login';
 import PfpOne from '../assets/pfp1.avif'
 import PfpTwo from '../assets/pfp2.avif'
 

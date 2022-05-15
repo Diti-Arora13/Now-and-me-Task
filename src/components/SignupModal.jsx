@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import { useNavigate } from "react-router-dom";
 import { AiOutlineEye } from 'react-icons/ai';
 import { AiOutlineClose } from 'react-icons/ai';
 import { AiOutlineArrowRight } from 'react-icons/ai';
